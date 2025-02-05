@@ -1,6 +1,6 @@
 # PWAAT_decrypter
-PWAATのアセットを復号化<br>
-I love ChatGPT<br>
+## PWAATのアセットを復号化<br>
+<br>
 コマンドラインから次のように実行<br>
 python decrypter.py encrypted decrypted
 <br>
@@ -8,3 +8,5 @@ python decrypter.py encrypted decrypted
 python decrypter.py bgm000.unity3d bgm000
 <br>
 復号化できたらAssetStudioで開ける
+<br>
+I love you ChatGPT
